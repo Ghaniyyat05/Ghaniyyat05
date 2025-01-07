@@ -10,7 +10,7 @@ I’m currently leveling up my skills in:
 - **Advanced Test Automation**: Working with **Playwright** and **Python**—because who doesn’t want to make testing more fun (and less tedious)?
 - **Development Magic**: Enhancing my skills in **React** and **Node.js**.
 
-### 🤝 Let's Collaborate!
+### 🤝 Let's Collaborate! 
 I’m on the lookout for:
 - **Open Source Projects**: Let’s join forces and create something epic together—preferably while wearing matching superhero capes.
 - **Quality-Centric Projects**: If you’re into improving product standards and making users happy, I’m your gal!
