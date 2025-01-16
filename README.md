@@ -15,7 +15,7 @@ I’m on the lookout for:
 - **Open Source Projects**: Let’s join forces and create something epic together—preferably while wearing matching superhero capes.
 - **Quality-Centric Projects**: If you’re into improving product standards and making users happy, I’m your gal!
 
-### 📫 Reach Out
+### 📫 Reach Out 
 I’d love to hear from you—seriously, I’m not that scary!  
 - **Email**: [ghaniyyat@gmail.com](mailto:ghaniyyat@gmail.com)  
 - **LinkedIn**: [Ghaniyyat Adeniran](https://www.linkedin.com/in/ghaniyyat-adeniran-40b978245)
