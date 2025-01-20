@@ -5,7 +5,7 @@ I'm **@Ghaniyyat**, your friendly neighborhood **Software Engineer**! I speciali
 - **Full-Stack Development**: I can juggle both front-end and back-end like a circus performer—without dropping the ball!
 - **Automated Testing**: I automate testing so that I can avoid the horror of doing it manually (who needs that kind of stress?).
 
-### 🔧 What I’m Up To 
+### 🔧 What I’m Up To
 I’m currently leveling up my skills in:
 - **Advanced Test Automation**: Working with **Playwright** and **Python**—because who doesn’t want to make testing more fun (and less tedious)?
 - **Development Magic**: Enhancing my skills in **React** and **Node.js**.
