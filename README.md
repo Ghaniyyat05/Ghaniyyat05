@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-### 🌟 Who Am I?
+### 🌟 Who Am I? 
 I'm **@Ghaniyyat**, your friendly neighborhood **Software Engineer**! I specialize in crafting high-quality, innovative software products. My superpowers include:
 - **Full-Stack Development**: I can juggle both front-end and back-end like a circus performer—without dropping the ball!
 - **Automated Testing**: I automate testing so that I can avoid the horror of doing it manually (who needs that kind of stress?).
